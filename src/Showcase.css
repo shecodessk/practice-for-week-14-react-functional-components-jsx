@@ -1,0 +1,19 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 2em;
+}
+.h2--first {
+  color: white;
+  background-color: green;
+}
+
+.h2--second {
+  color: white;
+  background-color: #ff0000;
+}
+.image {
+  width: 100px;
+  border-radius: 50px;
+}
